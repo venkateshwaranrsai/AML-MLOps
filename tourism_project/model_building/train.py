@@ -27,7 +27,7 @@ numeric_features = ["Age", "CityTier",
                       "NumberOfChildrenVisiting", "MonthlyIncome"
                   ]
 categorical_features = ["TypeofContact", "Occupation", "Gender", "ProductPitched",
-                        "MaritalStatus", "Designation"
+                        "PreferredPropertyStar", "MaritalStatus", "Designation"
                         ]
 
 # Set the class weight to handle class imbalance
