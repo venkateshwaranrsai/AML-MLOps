@@ -27,7 +27,7 @@ jobs:
         with:
           name: registered-data
           path: tourism_project/data/tourism.csv
-  
+
   # ---------- JOB 2: Data Preparation ----------
   data-prep:
     needs: register-dataset
